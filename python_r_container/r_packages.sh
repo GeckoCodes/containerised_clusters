@@ -1,0 +1,6 @@
+R -e "install.packages(c('hwriterPlus'), repos='https://mran.revolutionanalytics.com/snapshot/2017-02-26')"
+R -e "install.packages(c('htmltools'), repos='https://cran.microsoft.com/')" 
+R -e "install.packages('Rserve', repos='http://rforge.net/')"  
+R -e "install.packages('infer', repos='https://cran.rstudio.com/')"  
+R -e "install.packages('janitor', repos='https://cran.rstudio.com/')"  
+R -e "install.packages('glue', repos='https://cran.rstudio.com/')"  

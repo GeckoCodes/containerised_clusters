@@ -1,0 +1,25 @@
+# Python requirements for the 'Popeye' cluster 
+
+## Latest Version
+pystan
+gmaps
+googlemaps
+geocoder
+tweepy
+vaderSentiment
+twython
+nltk
+graphviz
+pymssql
+osrm-py
+yellowbrick
+
+## Specific Version
+xlrd==1.2.0
+six==1.15.0 
+ipython==7.19.0 
+numpy==1.19.2 
+pandas==1.2.4 
+pyarrow==4.0.0 
+matplotlib==3.4.2 
+jinja2==2.11.3

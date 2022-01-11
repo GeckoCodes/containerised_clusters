@@ -1,0 +1,6 @@
+# Python requirements
+
+## No Specific Version
+tweepy
+
+## Specific Version
